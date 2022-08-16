@@ -2,7 +2,7 @@
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,python)](https://skills.thijs.gg)
 
 ### Estudando atualmente:
-[![My Skills](https://skills.thijs.gg/icons?i=java,nodejs,ts,sql)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=java,nodejs,ts,react,nextjs)](https://skills.thijs.gg)
 
 ### Contatos:
 
