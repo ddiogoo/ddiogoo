@@ -1,6 +1,9 @@
 ### Skills:
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,python)](https://skills.thijs.gg)
 
+### Em andamento:
+[![My Skills](https://skills.thijs.gg/icons?i=java,nodejs,ts)](https://skills.thijs.gg)
+
 ### Contatos:
 
 <div>
