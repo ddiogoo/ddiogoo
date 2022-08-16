@@ -1,3 +1,8 @@
+### Sobre mim:
+:mortar_board: Graduando em Engenharia de Software na Pontifícia Universidade Católica de Minas Gerais.
+:pushpin: Atualmente localizado em Belo Horizonte/Minas Gerais.
+:heavy_check_mark: Sempre aberto a novas oportunidades, experiências e conhecimentos.
+
 ### Skills:
 [![My Skills](https://skills.thijs.gg/icons?i=bootstrap,html,css,js,python,cs,c)](https://skills.thijs.gg)
 
