@@ -1,8 +1,8 @@
 ### Skills:
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,python)](https://skills.thijs.gg)
 
-### Em andamento:
-[![My Skills](https://skills.thijs.gg/icons?i=java,nodejs,ts, cs)](https://skills.thijs.gg)
+### Estudando atualmente:
+[![My Skills](https://skills.thijs.gg/icons?i=java,nodejs,ts,sql)](https://skills.thijs.gg)
 
 ### Contatos:
 
