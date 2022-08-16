@@ -1,5 +1,5 @@
-### HardSkills:
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,wasm)](https://skills.thijs.gg)
+### Skills:
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,python)](https://skills.thijs.gg)
 
 ### Contatos:
 
