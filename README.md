@@ -1,8 +1,10 @@
 ### Skills:
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,python)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=bootstrap,html,css,js,python)](https://skills.thijs.gg)
 
 ### Estudando atualmente:
 [![My Skills](https://skills.thijs.gg/icons?i=java,ts,nodejs,react,nextjs,mongodb)](https://skills.thijs.gg)
+
+### Grade curricular:
 
 ### Contatos:
 
