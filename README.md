@@ -4,13 +4,13 @@
 :pushpin: Atualmente localizado em Belo Horizonte/Minas Gerais.
 >
 :heavy_check_mark: Sempre aberto a novas oportunidades, experiências e conhecimentos.
-
+>
 ### Skills:
 [![My Skills](https://skills.thijs.gg/icons?i=bootstrap,html,css,js,python,cs,c)](https://skills.thijs.gg)
-
+>
 ### Grade Curricular:
 [![My Skills](https://skills.thijs.gg/icons?i=java,ts,nodejs,react,nextjs,mongodb,mysql)](https://skills.thijs.gg)
-
+>
 ### Contatos:
 
 <div>
