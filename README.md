@@ -1,6 +1,8 @@
 ### Sobre mim:
 :mortar_board: Graduando em Engenharia de Software na Pontifícia Universidade Católica de Minas Gerais.
+>
 :pushpin: Atualmente localizado em Belo Horizonte/Minas Gerais.
+>
 :heavy_check_mark: Sempre aberto a novas oportunidades, experiências e conhecimentos.
 
 ### Skills:
