@@ -14,7 +14,7 @@
 [![My Skills](https://skillicons.dev/icons?i=java,react,ts,mysql)](https://skillicons.dev)
 
 ### IDE's utilizadas:
-[![My Skills](https://skillicons.dev/icons?i=idea,visualstudio,vscode,eclipse)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=idea,visualstudio,vscode,eclipse,jupyter)](https://skillicons.dev)
 ### Contatos:
 
 <div>
