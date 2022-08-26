@@ -8,7 +8,7 @@
 ### Skills:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,webpack,django)](https://skillicons.dev)
 >
-[![My Skills](https://skillicons.dev/icons?i=python,django,cs,express,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,cs,express,mongodb)](https://skillicons.dev)
 
 ### Estudando atualmente:
 [![My Skills](https://skillicons.dev/icons?i=java,react,ts)](https://skillicons.dev)
