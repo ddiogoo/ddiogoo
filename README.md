@@ -1,5 +1,5 @@
 ### Sobre mim:
-:mortar_board: Graduando em Engenharia de Software na Pontifícia Universidade Católica de Minas Gerais.
+:mortar_board: Graduando em Engenharia de Software na Pontifícia Universidade Católica de Minas Gerais - PUC Minas.
 >
 :pushpin: Atualmente localizado em Belo Horizonte/Minas Gerais.
 >
