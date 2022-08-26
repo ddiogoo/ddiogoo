@@ -6,7 +6,7 @@
 :heavy_check_mark: Sempre aberto a novas oportunidades, experiências e conhecimentos.
 >
 ### Skills:
-[![My Skills](https://skills.thijs.gg/icons?i=bootstrap,html,css,js,python,cs)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,webpack)](https://skillicons.dev)
 >
 ### Grade Curricular:
 [![My Skills](https://skills.thijs.gg/icons?i=java,ts,nodejs,react,nextjs,mongodb,mysql)](https://skills.thijs.gg)
