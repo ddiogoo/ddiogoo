@@ -8,8 +8,8 @@
 ### Skills:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,webpack,python,cs)](https://skillicons.dev)
 >
-### Grade Curricular:
-[![My Skills](https://skills.thijs.gg/icons?i=java,ts,nodejs,react,nextjs,mongodb,mysql)](https://skills.thijs.gg)
+### Estudando atualmente:
+[![My Skills](https://skillicons.dev/icons?i=java,react,ts,mongodb)](https://skillicons.dev)
 >
 ### Contatos:
 
