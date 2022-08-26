@@ -6,8 +6,10 @@
 :heavy_check_mark: Sempre aberto a novas oportunidades, experiências e conhecimentos.
 >
 ### Skills:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,webpack,python,cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,webpack,django)](https://skillicons.dev)
 >
+[![My Skills](https://skillicons.dev/icons?i=python,django,cs,express)](https://skillicons.dev)
+
 ### Estudando atualmente:
 [![My Skills](https://skillicons.dev/icons?i=java,react,ts,mongodb)](https://skillicons.dev)
 >
