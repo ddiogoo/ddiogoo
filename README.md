@@ -22,5 +22,3 @@
   <a href="https://www.linkedin.com/in/diogo-martins-0b0126241/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "https://api.whatsapp.com/send?phone=5531989763123&text=ol%C3%A1%2C%20vim%20pelo%20seu%20perfil%20do%20GitHub!%20"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
-
-[![My Skills](https://skillicons.dev/icons?i=pandas&perline=3)](https://skillicons.dev)
