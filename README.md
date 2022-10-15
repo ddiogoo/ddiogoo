@@ -9,7 +9,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,webpack,py,cs)](https://skillicons.dev)
 
 ### Estudando atualmente:
-[![My Skills](https://skillicons.dev/icons?i=java,nodejs,mongodb,mysql,oracle)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,nodejs,mongodb,mysql)](https://skillicons.dev)
 
 ### IDE's utilizadas:
 [![My Skills](https://skillicons.dev/icons?i=idea,visualstudio,vscode,eclipse,jupyter)](https://skillicons.dev)
