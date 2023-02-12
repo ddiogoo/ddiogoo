@@ -3,15 +3,11 @@
 </div>  
   
 
-### <div align="center">Meu nome é Diogo, Desenvolvedor Back-end e estudante de Engenharia de Software PUC Minas</div>  
+### <div align="center">Meu nome é Diogo, Desenvolvedor Back-end e faço graduação em Engenharia de Software na PUC Minas</div>  
   
 
 - 🌐 Programador Orientado a Stack Overflow  
-  
-
 - ⌨️ Desenvolvedor Front-end só quando necessário  
-  
-
 - 🚀 Um dia terei um portifólio, prometo  
   
 
