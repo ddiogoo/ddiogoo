@@ -18,7 +18,7 @@
 <br/>  
 
 
-## My Skill Set  
+## Minhas Skills  
 <table><tr><td valign="top" width="33%">
 
 
@@ -73,21 +73,21 @@
 <br/>  
 
 
-## Connect with me  
+## Minhas redes sociais  
 <div align="center">
-<a href="https://dev.to/https://dev.to/diogomsz" target="_blank">
+<a href="https://dev.to/diogomsz" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/diogomsz/" target="_blank">
+<a href="https://linkedin.com/in/diogomsz/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/https://www.instagram.com/diogomsz/" target="_blank">
+<a href="https://instagram.com/diogomsz/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://github.com/https://github.com/diogomsz" target="_blank">
+<a href="https://github.com/diogomsz" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/21128126/diogo-martins" target="_blank">
+<a href="https://stackoverflow.com/users/21128126/diogo-martins" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
 </div>  
