@@ -7,7 +7,7 @@
   
 
 - 🌐 Programador Orientado a Stack Overflow  
-- ⌨️ Desenvolvedor Front-end só quando necessário  
+- ⌨️ Tenho conhecimentos BÁSICOS em DevOps
 - 🚀 Um dia terei um portifólio, prometo  
   
 
