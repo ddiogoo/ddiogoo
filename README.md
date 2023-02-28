@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" align="center" style="width: 80%" />
-</div>  
-  
-
 ### <div align="center">Meu nome é Diogo, Desenvolvedor Back-end e faço graduação em Engenharia de Software na PUC Minas</div>  
   
 
