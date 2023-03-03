@@ -1,4 +1,11 @@
 # Bem-vindo ao meu perfil, divirta-se! 💻
+
+## Sobre mim
+
+- Programador Orientado a Stack OverFlow
+- Desenvolvedor Back-end, Front-end só quando necessário
+- Estudante de Engenharia de Software na PUC Minas - Bacharelado
+
 ## GitHub Stats 🌐
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diogomsz&show_icons=true&theme=cobalt)
