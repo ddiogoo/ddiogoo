@@ -1,6 +1,6 @@
 # Bem-vindo ao meu perfil, divirta-se! 💻
 
-## Sobre mim
+## Sobre mim ℹ️
 
 - Programador Orientado a Stack OverFlow
 - Desenvolvedor Back-end, Front-end só quando necessário
