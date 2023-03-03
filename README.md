@@ -12,3 +12,6 @@
 
 ## My Top Languages ⌨️
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogomsz&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+## Commit
+![Snake animation](https://github.com/diogomsz/diogomsz/blob/output/github-contribution-grid-snake.svg)
