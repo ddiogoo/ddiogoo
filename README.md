@@ -1,4 +1,4 @@
-# Bem-vindo ao meu perfil, divirta-se! 💻
+# Seja bem-vindo ao meu perfil! 💻
 
 ## Sobre mim ℹ️
 
