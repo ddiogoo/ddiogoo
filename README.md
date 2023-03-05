@@ -1,6 +1,6 @@
 # Seja bem-vindo ao meu perfil! 💻
 
-## Sobre mim ℹ️
+## Sobre mim :dart:
 
 - Programador Orientado a Stack OverFlow
 - Desenvolvedor Back-end, Front-end só quando necessário
