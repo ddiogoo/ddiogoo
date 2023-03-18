@@ -3,7 +3,7 @@
 ## Sobre mim :dart:
 
 - Programador Orientado a Stack OverFlow
-- Desenvolvedor Back-end, Front-end só quando necessário
+- Desenvolvedor Back-end, mas tenho um pouco de conhecimento em Machine Learning
 - Estudante de Engenharia de Software na PUC Minas - Bacharelado
 
 ## GitHub Stats 🌐
