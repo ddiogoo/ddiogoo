@@ -1,14 +1,14 @@
-# Seja bem-vindo ao meu perfil! 💻
+# Welcome to my profile! 💻
 
-## Sobre mim :dart:
+## About me :dart:
 
-- Programador Orientado a Stack OverFlow
-- Desenvolvedor Back-end, mas tenho um pouco de conhecimento em Machine Learning
-- Estudante de Engenharia de Software na PUC Minas - Bacharelado
+- Desenvolvedor Back-end .Net Core, Java e Node.js
+- Estudante de Engenharia de Software na PUC Minas
+- Estudante de Arquitetura de Software e Design Patterns
 
 ## GitHub Stats 🌐
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diogomsz&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diogomsz&show_icons=true&theme=dracula)
 
 ## My Top Languages ⌨️
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogomsz&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogomsz&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
