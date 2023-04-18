@@ -4,7 +4,7 @@
 
 - Desenvolvedor Back-end .Net Core, Java e Node.js
 - Estudante de Engenharia de Software na PUC Minas
-- Estudante de Arquitetura de Software e Design Patterns
+- Arquitetura de Software e Design Patterns ❤️
 
 ## GitHub Stats 🌐
 
