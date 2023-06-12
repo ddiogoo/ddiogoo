@@ -3,11 +3,11 @@
 
 <p align="left" display="block"> <img src="https://komarev.com/ghpvc/?username=diogomsz&label=Profile%20views&color=0e75b6&style=flat" alt="diogomsz" /> </p>
 
-- 🌱 I’m currently learning **Building libraries and frameworks.**
+- 🌱 I’m currently learning: **Building libraries and frameworks.**
 
-- 💬 Ask me about **Backend Development.**
+- 💬 Ask me about: **Backend Development.**
 
-- ⚡ Fun fact **I have agony of unnecessary spaces in the codes.**
+- ⚡ Fun fact: **I have agony of unnecessary spaces in the codes.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
