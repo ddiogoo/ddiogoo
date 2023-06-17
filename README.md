@@ -3,7 +3,7 @@
 
 <p align="left" display="block"> <img src="https://komarev.com/ghpvc/?username=diogomsz&label=Profile%20views&color=0e75b6&style=flat" alt="diogomsz" /> </p>
 
-- 🌱 I’m currently learning: **Building libraries and frameworks.**
+- 🌱 I’m currently learning: **Creation of applications and high performance and infrastructure.**
 
 - 💬 Ask me about: **Backend Development.**
 
