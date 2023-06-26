@@ -1,3 +1,6 @@
+<!--   my-header-img -->
+![](./src/header_.png)
+
 <h1 align="center">Hi 👋, I'm Diogo</h1>
 <h3 align="center">A Software Engineering student</h3>
 
