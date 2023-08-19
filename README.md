@@ -8,7 +8,7 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=diogomsz&show_icons=true&count_private=true&hide_border=true&title_color=FF69B4&icon_color=FF69B4&text_color=c9d1d9&bg_color=0d1117" alt="Diogo Martins github stats" />
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogomsz&layout=compact&hide_border=true&title_color=FF69B4&text_color=FF69B4&bg_color=0d1117" />
 </div>
-
+<div align="center">
 | Framework and libraries | Container, Cloud and Databases |
 |:---:|:---:|
 | <img src="https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white"> | <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white"> |
@@ -18,7 +18,7 @@
 | <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white"> | <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white"> |
 | <img src="https://img.shields.io/badge/RabbitMQ-FF6600.svg?style=for-the-badge&logo=RabbitMQ&logoColor=white"> | <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white"> |
 | <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white"> | <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white"> |
-
+</div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer"/>
 
 
