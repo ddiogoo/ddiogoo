@@ -9,7 +9,8 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogomsz&layout=compact&hide_border=true&title_color=FF69B4&text_color=FF69B4&bg_color=0d1117" />
 </div>
 
-### Skills
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF69B4&size=35&center=true&vCenter=true&width=1000&lines=My+Skills+!+:%29)](https://git.io/typing-svg)
+
 | Programming languages | Framework and libraries | Container, Cloud and Databases |
 |---|---|---|
 | <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black"> | <img src="https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white"> | <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white"> |
