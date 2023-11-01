@@ -13,8 +13,4 @@
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,go,java,py,rust&perline=8)](https://skillicons.dev)
 
-## LeetCode
-
-![(https://leetcode.com/diogomsz/)](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer"/>
