@@ -19,6 +19,6 @@
 
 | Stats | Most Used Languages |
 |-----------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------:|
-| ![diogomrtsa's github stats](https://github-readme-stats.vercel.app/api?username=diogomrtsa&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=diogomrtsa&theme=radical&layout=compact) |
+| ![diogomrtsa's github stats](https://github-readme-stats.vercel.app/api?username=diogomrtsa&show_icons=true&theme=radical&include_all_commits=true) | ![diogomrtsa's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=diogomrtsa&layout=compact&langs_count=8&theme=radical) |
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=75729b&height=120&section=footer"/>
