@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/diogomrtsa/" target="blank"><img align="center" src="https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white" alt="diogomrtsa" /></a>
 <a href="mailto:diogomrtsa@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail" /></a>
-<a href="https://api.whatsapp.com/send?phone=+5531989763123" alt="Connect on Whatsapp"> <img align="center" src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?logo=whatsapp&logoColor=white" /> </a>
+<a href="https://api.whatsapp.com/send?phone=5531989763123" alt="Connect on Whatsapp"> <img align="center" src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?logo=whatsapp&logoColor=white" /> </a>
 </p>
 <br/>
 
