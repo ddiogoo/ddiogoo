@@ -9,7 +9,7 @@
 | **OS** | ![Windows Badge](https://img.shields.io/badge/Windows-black?logo=windows&logoColor=0078D6) ![Debian Badge](https://img.shields.io/badge/Debian-black?logo=debian&logoColor=D70A53) |
 | **LeetCode** | [![LeetCode user decodediogo](https://img.shields.io/badge/dynamic/json?labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fdecodediogo&logo=leetcode&logoColor=yellow)](https://leetcode.com/decodediogo/)|
 <br/>
-**📫 How to Reach me:**
+## **📫 How to Reach me:**
 <p align="left">
 <a href="https://www.linkedin.com/in/diogomrtsa/" target="blank"><img align="center" src="https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white" alt="diogomrtsa" /></a>
 <a href="mailto:diogomrtsa@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail" /></a>
