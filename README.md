@@ -7,7 +7,7 @@
 | **CI / CD** | [![Markdown Badge](https://img.shields.io/badge/-Markdown-2088FF?style=flat&logo=Markdown&logoColor=white)](https://github.com/diogomrtsa/diogomrtsa) [![Github Badge](https://img.shields.io/badge/-Github%20-2088FF?style=flat&logo=Github&logoColor=white)](https://github.com/diogomrtsa) [![Github Actions Badge](https://img.shields.io/badge/-Git%20-2088FF?style=flat&logo=Git&logoColor=white)](https://github.com/diogomrtsa/diogomrtsa) |
 | **Databases** | ![MicrosoftSQLServer Badge](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoft%20sql%20server&logoColor=white) ![MySQL Badge](https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white) ![Postgres Badge](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white) ![MongoDB Badge](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white) |
 | **OS** | ![Windows Badge](https://img.shields.io/badge/Windows-black?logo=windows&logoColor=0078D6) ![Debian Badge](https://img.shields.io/badge/Debian-black?logo=debian&logoColor=D70A53) |
-| **LeetCode** | [![LeetCode user diogomrts](https://img.shields.io/badge/dynamic/json?labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fdiogomrts&logo=leetcode&logoColor=yellow)](https://leetcode.com/diogomrts/)|
+| **LeetCode** | [![LeetCode user ddiogoo](https://img.shields.io/badge/dynamic/json?labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fddiogoo&logo=leetcode&logoColor=yellow)](https://leetcode.com/ddiogoo/)|
 <br/>
 <h3> **📫 How to Reach me:** </h3>
 <p align="left">
